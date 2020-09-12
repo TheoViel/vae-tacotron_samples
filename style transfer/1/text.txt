@@ -1,0 +1,1 @@
+text = "Sono molto arrabbiato !"
